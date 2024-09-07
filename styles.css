@@ -1,0 +1,27 @@
+*{
+  background-color: rgb(70, 70, 70);
+  color: white;
+  text-align: center;
+}
+
+.center {
+  text-align: center;
+}
+
+ul, ol {
+  display: table;
+  margin: 0 auto;
+  text-align: left;
+}
+
+li {
+  text-align: left;
+}
+
+.thinner {
+  width: 600px;
+}
+
+.lowerbottommargin {
+  margin-bottom: 2px;
+}
